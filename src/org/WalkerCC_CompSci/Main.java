@@ -11,7 +11,7 @@ public class Main {
         System.out.println("The length of rectangle1 is:  " + rectangle1.getLength());
         System.out.println("The width of rectangle1 is:  " + rectangle1.getWidth());
 
-        //sidelength of 3
+        //sideLength of 3
         System.out.println("The Side Length of square1 is:  " + square1.getSideLength());
 
         //area of 8

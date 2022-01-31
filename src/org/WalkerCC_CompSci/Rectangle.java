@@ -10,24 +10,24 @@ public class Rectangle {
         this.width = width;
     }
 
-    public double getLength(){
+    public double getLength() {
         return this.length;
     }
 
-    public double getWidth(){
+    public double getWidth() {
         return this.width;
     }
 
-    public void setLength(double length){
+    public void setLength(double length) {
         this.length = length;
     }
 
-    public void setWidth(double width){
+    public void setWidth(double width) {
         this.width = width;
     }
 
-    public double Area(){
-        //What goes here?
+    public double Area() {
+       return this.width*this.length;
     }
 
 }
